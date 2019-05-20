@@ -1,0 +1,6 @@
+pcb/design
+pcb/gerber
+pcb/fp-info-cache
+pcb/choco_bottom.pro
+pcb/choco-cache.lib
+pcb/fp-lib-table
